@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="UDaiAdmin:war exploded" />
+      <artifact name="UDaiBrowser:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="218212c1-be72-4e88-b09c-c9a866d5d8f7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - udai@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - udai@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - udai@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="udai: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/updateOrderServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="method#doGet#0;class#updateOrderServlet#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UDaiAdmin/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UDaiAdmin/web/jsp/admin-query-all.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UDaiAdmin/web/jsp/order-update-all.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/entity/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/conf/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/util/jdbcUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>../</find>
+      <find>..</find>
+      <find>href</find>
+      <find>Showing</find>
+      <find>.</find>
+      <find>./</find>
+      <find>sm-8</find>
+      <find>email</find>
+      <find>Map&lt;String,String&gt;</find>
+      <find>long</find>
+      <find>double</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/deleteNoticeServlet.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/queryCategoryServlet.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/entity/queryVideosServlet.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/testServlet.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/addVideoServlet.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/queryVideoServlet.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/dao/videoDao.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/dao/impl/videoDaoImpl.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/service/videoService.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/service/impl/videoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/entity/Videos.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/deleteVideoServlet.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/web/jsp/video-add-all.jsp" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/dao/impl/productDaoImpl.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/test/test01.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/addProductServlet.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/web/jsp/product-add-all.jsp" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/queryProductDetailServlet.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/service/productService.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/deleteProductServlet.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/entity/Orderinfo.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/dao/orderDao.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/service/orderService.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/service/impl/orderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/service/impl/productServiceImpl.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/queryOrderInfoAllServlet.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/entity/OrderDetailInfo.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/dao/impl/OrderDaoImpl.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/web/jsp/notice-query-all.jsp" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/web/jsp/product-query-all.jsp" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/web/jsp/video-query-all.jsp" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/web/jsp/order-query-all.jsp" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/dao/topDao.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/entity/Hottop.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/indexServlet.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/web/jsp/product-detail-all.jsp" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/queryAdminServlet.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/web/jsp/admin-add-all.jsp" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/addAdminServlet.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/web/jsp/admin-query-all.jsp" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/dao/adminDao.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/dao/impl/adminDaoImpl.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/service/adminService.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/service/impl/adminServiceImpl.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/entity/Administrator.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/deleteAdminServlet.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/web/jsp/all-admin-index.jsp" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/web/jsp/order-update-all.jsp" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/web/jsp/user-update-all.jsp" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/updateUserInfoServlet.java" />
+        <option value="$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/updateOrderServlet.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Maven/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\Study\Maven\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="159" />
+    <option name="y" value="65" />
+    <option name="width" value="997" />
+    <option name="height" value="1059" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UDai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UDai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UDai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UDai" type="462c0819:PsiDirectoryNode" />
+              <item name="UDaiAdmin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UDai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UDai" type="462c0819:PsiDirectoryNode" />
+              <item name="UDaiAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UDai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UDai" type="462c0819:PsiDirectoryNode" />
+              <item name="UDaiAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="RSnowBEar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UDai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UDai" type="462c0819:PsiDirectoryNode" />
+              <item name="UDaiAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="RSnowBEar" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UDai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UDai" type="462c0819:PsiDirectoryNode" />
+              <item name="UDaiAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="RSnowBEar" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UDai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UDai" type="462c0819:PsiDirectoryNode" />
+              <item name="UDaiAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UDai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UDai" type="462c0819:PsiDirectoryNode" />
+              <item name="UDaiAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604491516308" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaDemo00" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study\iDealU\WorkSpace\UDai\UDaiAdmin\web\jsp" />
+      <recent name="D:\Study\iDealU\WorkSpace\UDai\UDaiAdmin\src\com\RSnowBEar\conf" />
+      <recent name="D:\Study\iDealU\WorkSpace\UDai\UDaiAdmin\web" />
+      <recent name="D:\Study\iDealU\WorkSpace\UDai\UDaiAdmin\web\WEB-INF" />
+      <recent name="D:\Study\iDealU\WorkSpace\UDai\UDaiBrowser\web" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.RSnowBEar.servlet" />
+      <recent name="com.RSnowBEar.entity" />
+      <recent name="com.RSnowBEar.util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Study\iDealU\WorkSpace\UDai\UDaiAdmin\web\jsp" />
+      <recent name="D:\Study\iDealU\WorkSpace\UDai\UDaiAdmin\web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.20">
+    <configuration name="adminDaoImpl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UDaiAdmin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.RSnowBEar.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.RSnowBEar.dao.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.RSnowBEar.dao.impl.adminDaoImpl" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test01.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UDaiAdmin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.RSnowBEar.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.RSnowBEar.test" />
+      <option name="MAIN_CLASS_NAME" value="com.RSnowBEar.test.test01" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test01.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UDaiAdmin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.RSnowBEar.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.RSnowBEar.test" />
+      <option name="MAIN_CLASS_NAME" value="com.RSnowBEar.test.test01" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test01.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UDaiAdmin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.RSnowBEar.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.RSnowBEar.test" />
+      <option name="MAIN_CLASS_NAME" value="com.RSnowBEar.test.test01" />
+      <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test01.test8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UDaiAdmin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.RSnowBEar.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.RSnowBEar.test" />
+      <option name="MAIN_CLASS_NAME" value="com.RSnowBEar.test.test01" />
+      <option name="METHOD_NAME" value="test8" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.20" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.20" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="UDaiAdmin:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/UDaiAdmin" />
+          </settings>
+        </artifact>
+        <artifact name="UDaiBrowser:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/UDaiBrowser" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_20_UDai_3" />
+        <option name="HTTP_PORT" value="80" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63093" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="UDaiAdmin:war exploded" />
+          <artifact name="UDaiBrowser:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.adminDaoImpl" />
+        <item itemvalue="JUnit.test01.test2" />
+        <item itemvalue="JUnit.test01.test7" />
+        <item itemvalue="JUnit.test01.test8" />
+        <item itemvalue="JUnit.test01.test4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="218212c1-be72-4e88-b09c-c9a866d5d8f7" name="Default Changelist" comment="" />
+      <created>1603078011030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603078011030</updated>
+      <workItem from="1603078014617" duration="15246000" />
+      <workItem from="1603155902107" duration="25614000" />
+      <workItem from="1603241928499" duration="20494000" />
+      <workItem from="1603329365571" duration="17365000" />
+      <workItem from="1603415088970" duration="29831000" />
+      <workItem from="1603501418467" duration="7493000" />
+      <workItem from="1603521620880" duration="9755000" />
+      <workItem from="1603606752922" duration="2993000" />
+      <workItem from="1603674534132" duration="21118000" />
+      <workItem from="1603761034494" duration="27852000" />
+      <workItem from="1603846322036" duration="26036000" />
+      <workItem from="1603933773520" duration="6718000" />
+      <workItem from="1603940684129" duration="16049000" />
+      <workItem from="1604019590148" duration="26868000" />
+      <workItem from="1604125076876" duration="5086000" />
+      <workItem from="1604207165026" duration="16458000" />
+      <workItem from="1604229541059" duration="4000" />
+      <workItem from="1604243261526" duration="6873000" />
+      <workItem from="1604278037752" duration="19133000" />
+      <workItem from="1604305495489" duration="2862000" />
+      <workItem from="1604364973288" duration="99000" />
+      <workItem from="1604486471096" duration="1595000" />
+      <workItem from="1604538473903" duration="371000" />
+      <workItem from="1604996609871" duration="629000" />
+      <workItem from="1605062294088" duration="1147000" />
+      <workItem from="1605092947250" duration="703000" />
+      <workItem from="1605142737858" duration="460000" />
+      <workItem from="1605496995963" duration="3187000" />
+      <workItem from="1605578090744" duration="615000" />
+      <workItem from="1605671609624" duration="26000" />
+      <workItem from="1605715745034" duration="1691000" />
+      <workItem from="1605747532558" duration="1289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="test01_test2 - 2020.10.28 at 15h 53m 14s.xml">
+      <configuration name="test01.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test01_test7 - 2020.10.28 at 16h 05m 36s.xml">
+      <configuration name="test01.test7" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test01_test7 - 2020.10.28 at 16h 18m 54s.xml">
+      <configuration name="test01.test7" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test01_test2 - 2020.11.01 at 16h 29m 21s.xml">
+      <configuration name="test01.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test01_test2 - 2020.11.01 at 16h 29m 34s.xml">
+      <configuration name="test01.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test01_test2 - 2020.11.01 at 16h 30m 07s.xml">
+      <configuration name="test01.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test01_test2 - 2020.11.01 at 16h 30m 50s.xml">
+      <configuration name="test01.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test01_test2 - 2020.11.01 at 16h 31m 28s.xml">
+      <configuration name="test01.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test01_test2 - 2020.11.01 at 16h 32m 40s.xml">
+      <configuration name="test01.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="adminDaoImpl - 2020.11.02 at 10h 59m 06s.xml">
+      <configuration name="adminDaoImpl" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="315660000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1563" height="845" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7740668" visible="true" weight="0.3182724" />
+      <window_info id="Structure" order="1" sideWeight="0.37815127" side_tool="true" weight="0.21262458" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.22593321" side_tool="true" weight="0.22325581" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913166" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28711486" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915967" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32492998" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.32913166" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32956812" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/test/test01.java</url>
+          <line>97</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/deleteVideoServlet.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/service/productService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="12" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/service/impl/productServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/entity/Orderinfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/service/impl/orderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/queryProductAllServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="22" column="53" lean-forward="true" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#doGet#0;class#queryProductAllServlet#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/entity/OrderDetailInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#3297#3298#0" expanded="true" />
+            <element signature="e#3326#3327#0" expanded="true" />
+            <element signature="e#3370#3371#0" expanded="true" />
+            <element signature="e#3406#3407#0" expanded="true" />
+            <element signature="e#2368#2369#0" expanded="true" />
+            <element signature="e#2399#2400#0" expanded="true" />
+            <element signature="e#2447#2448#0" expanded="true" />
+            <element signature="e#2487#2488#0" expanded="true" />
+            <element signature="e#2518#2519#0" expanded="true" />
+            <element signature="e#2545#2546#0" expanded="true" />
+            <element signature="e#2585#2586#0" expanded="true" />
+            <element signature="e#2617#2618#0" expanded="true" />
+            <element signature="e#2648#2649#0" expanded="true" />
+            <element signature="e#2675#2676#0" expanded="true" />
+            <element signature="e#2715#2716#0" expanded="true" />
+            <element signature="e#2747#2748#0" expanded="true" />
+            <element signature="e#2778#2779#0" expanded="true" />
+            <element signature="e#2805#2806#0" expanded="true" />
+            <element signature="e#2845#2846#0" expanded="true" />
+            <element signature="e#2877#2878#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/web/jsp/notice-query-all.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="129" column="97" selection-start-line="129" selection-start-column="97" selection-end-line="129" selection-end-column="97" />
+          <folding>
+            <element signature="n#style#0;n#textarea#0;n#div#1;n#div#0;n#div#0;n#div#0;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/web/jsp/video-query-all.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="115" column="96" selection-start-line="115" selection-start-column="96" selection-end-line="115" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/web/jsp/product-query-all.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="107" column="48" lean-forward="true" selection-start-line="107" selection-start-column="48" selection-end-line="107" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#li#3;n#ul#0;n#nav#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/dao/impl/OrderDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="41" column="40" lean-forward="true" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/queryOrderInfoAllServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/entity/Hottop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/adminLoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="37" column="58" lean-forward="true" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/dao/topDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/deleteProductServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="method#doGet#0;class#deleteProductServlet#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/web/jsp/order-query-all.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="72" column="48" lean-forward="true" selection-start-line="72" selection-start-column="48" selection-end-line="72" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/service/noticeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/service/impl/noticeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="29" column="24" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/queryNoticeServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/dao/impl/noticeDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/web/jsp/video-add-all.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="109" column="27" selection-start-line="109" selection-start-column="27" selection-end-line="109" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/web/jsp/product-add-all.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="270" column="9" lean-forward="true" selection-start-line="270" selection-start-column="9" selection-end-line="270" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/queryAdminServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/addAdminServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/web/jsp/admin-add-all.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="109" column="35" selection-start-line="109" selection-start-column="35" selection-end-line="109" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/dao/adminDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/dao/impl/adminDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/service/adminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/dao/noticeDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/deleteNoticeServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/entity/Administrator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="e#391#392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/web/jsp/user-query-all.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="97" column="139" lean-forward="true" selection-start-line="97" selection-start-column="139" selection-end-line="97" selection-end-column="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/service/impl/adminServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="46" column="21" lean-forward="true" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/deleteAdminServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="21" column="60" lean-forward="true" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/web/jsp/user-update-all.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="109" column="68" lean-forward="true" selection-start-line="109" selection-start-column="68" selection-end-line="109" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/updateUserInfoServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="36" column="35" lean-forward="true" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/updateUserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/web/jsp/welcome.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/web/jsp/all-admin-index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-536">
+          <caret line="250" selection-start-line="250" selection-end-line="250" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/filter/EncodeFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/indexServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/web/jsp/product-detail-all.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2755">
+          <caret line="145" column="31" lean-forward="true" selection-start-line="145" selection-start-column="31" selection-end-line="145" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/dao/impl/productDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1330">
+          <caret line="100" column="12" selection-start-line="100" selection-start-column="12" selection-end-line="100" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/web/jsp/admin-query-all.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/conf/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/util/jdbcUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/web/jsp/order-update-all.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UDaiAdmin/src/com/RSnowBEar/servlet/updateOrderServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="method#doGet#0;class#updateOrderServlet#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

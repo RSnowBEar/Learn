@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UDai.iml" filepath="$PROJECT_DIR$/UDai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UDaiAdmin/UDaiAdmin.iml" filepath="$PROJECT_DIR$/UDaiAdmin/UDaiAdmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UDaiBrowser/UDaiBrowser.iml" filepath="$PROJECT_DIR$/UDaiBrowser/UDaiBrowser.iml" />
+    </modules>
+  </component>
+</project>
