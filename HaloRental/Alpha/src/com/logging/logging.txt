@@ -1,0 +1,510 @@
+2020-09-04 16:17:06——tom:	userLogin
+2020-09-04 16:30:59——tom:	userLogin
+2020-09-04 16:30:59——tom:	userQueryCarAll
+2020-09-04 16:31:06——tom:	userQueryCarAll
+2020-09-04 16:31:35——AAAAAA:	userRegister
+2020-09-04 16:32:15——admin:	adminLogin
+2020-09-04 16:32:20——admin:	adminQueryUserAll
+2020-09-04 16:32:20——admin:	adminQueryUserAll
+2020-09-04 16:32:26——admin:	adminQueryRecordByUID
+2020-09-04 16:37:17——admin:	adminLogin
+2020-09-04 16:37:20——admin:	adminQueryUserAll
+2020-09-04 16:37:21——admin:	adminQueryUserAll
+2020-09-04 16:37:22——admin:	adminQueryRecordByUID
+2020-09-04 16:38:29——admin:	adminLogin
+2020-09-04 16:38:31——admin:	adminQueryUserAll
+2020-09-04 16:38:31——admin:	adminQueryUserAll
+2020-09-04 16:38:32——admin:	adminQueryRecordByUID
+2020-09-04 16:41:18——admin:	adminLogin
+2020-09-04 16:41:20——admin:	adminQueryUserAll
+2020-09-04 16:41:20——admin:	adminQueryUserAll
+2020-09-04 16:41:21——admin:	adminQueryRecordByUID
+2020-09-04 16:42:05——admin:	adminLogin
+2020-09-04 16:42:07——admin:	adminQueryUserAll
+2020-09-04 16:42:07——admin:	adminQueryUserAll
+2020-09-04 16:42:08——admin:	adminQueryRecordByUID
+2020-09-04 16:43:40——admin:	adminLogin
+2020-09-04 16:43:43——admin:	adminQueryUserAll
+2020-09-04 16:43:43——admin:	adminQueryUserAll
+2020-09-04 16:43:44——admin:	adminQueryRecordByUID
+2020-09-04 16:47:39——admin:	adminLogin
+2020-09-04 16:47:47——admin:	adminQueryUserAll
+2020-09-04 16:47:47——admin:	adminQueryUserAll
+2020-09-04 16:49:30——admin:	adminLogin
+2020-09-04 16:50:02——admin:	adminLogin
+2020-09-04 16:50:05——admin:	adminQueryUserAll
+2020-09-04 16:50:05——admin:	adminQueryUserAll
+2020-09-04 16:54:18——admin:	adminQueryRecordByUID
+2020-09-04 16:54:35——admin:	adminQueryUserAll
+2020-09-04 16:54:35——admin:	adminQueryUserAll
+2020-09-04 16:54:36——admin:	adminQueryRecordByUID
+2020-09-04 16:54:47——admin:	adminQueryUserAll
+2020-09-04 16:54:47——admin:	adminQueryUserAll
+2020-09-04 16:54:49——admin:	adminQueryRecordByUID
+2020-09-04 16:55:12——admin:	adminQueryRecordAll
+2020-09-04 16:55:48——amy:	userLogin
+2020-09-04 16:55:48——amy:	userQueryCarAll
+2020-09-04 16:55:56——amy:	userRent
+2020-09-04 16:55:56——amy:	userQueryRecord
+2020-09-04 16:56:03——amy:	userQueryRecord
+2020-09-04 16:56:14——XX:	userLogin
+2020-09-04 16:56:28——XX:	userLogin
+2020-09-04 16:56:28——XX:	userQueryCarAll
+2020-09-04 16:56:39——XX:	userRent
+2020-09-04 16:56:39——XX:	userQueryRecord
+2020-09-04 16:56:42——XX:	userQueryRecord
+2020-09-04 16:56:49——admin:	adminLogin
+2020-09-04 16:56:55——admin:	adminQueryRecordAll
+2020-09-04 16:57:05——admin:	adminQueryUserAll
+2020-09-04 16:57:05——admin:	adminQueryUserAll
+2020-09-04 16:57:06——admin:	adminQueryRecordByUID
+2020-09-04 16:57:09——admin:	adminQueryUserAll
+2020-09-04 16:57:09——admin:	adminQueryUserAll
+2020-09-04 16:57:11——admin:	adminQueryRecordByUID
+2020-09-04 16:57:14——admin:	adminQueryUserAll
+2020-09-04 16:57:14——admin:	adminQueryUserAll
+2020-09-04 16:57:15——admin:	adminQueryRecordByUID
+2020-09-04 16:57:17——admin:	adminQueryUserAll
+2020-09-04 16:57:17——admin:	adminQueryUserAll
+2020-09-04 16:57:18——admin:	adminQueryRecordByUID
+2020-09-04 16:58:43——admin:	adminLogin
+2020-09-04 16:58:48——admin:	adminQueryUserAll
+2020-09-04 16:58:48——admin:	adminQueryUserAll
+2020-09-04 16:59:30——admin:	adminLogin
+2020-09-04 16:59:33——admin:	adminQueryUserAll
+2020-09-04 16:59:33——admin:	adminQueryUserAll
+2020-09-04 17:01:01——admin:	adminLogin
+2020-09-04 17:01:12——admin:	adminQueryUserAll
+2020-09-04 17:01:12——admin:	adminQueryUserAll
+2020-09-04 17:01:42——admin:	adminLogin
+2020-09-04 17:02:19——admin:	adminQueryUserAll
+2020-09-04 17:02:19——admin:	adminQueryUserAll
+2020-09-04 17:02:50——dmin:	adminLogin
+2020-09-04 17:03:01——admin:	adminLogin
+2020-09-04 17:03:34——admin:	adminQueryUserAll
+2020-09-04 17:03:34——admin:	adminQueryUserAll
+2020-09-04 17:03:55——admin:	adminQueryRecordByUID
+2020-09-04 17:05:00——admin:	adminQueryUserAll
+2020-09-04 17:05:00——admin:	adminQueryUserAll
+2020-09-04 17:05:26——admin:	adminQueryRecordByUID
+2020-09-04 17:06:22——admin:	adminLogin
+2020-09-04 17:06:36——admin:	adminQueryUserAll
+2020-09-04 17:06:36——admin:	adminQueryUserAll
+2020-09-04 17:07:03——admin:	adminQueryRecordByUID
+2020-09-04 17:08:33——admin:	adminLogin
+2020-09-04 17:08:35——admin:	adminQueryUserAll
+2020-09-04 17:08:35——admin:	adminQueryUserAll
+2020-09-04 17:09:05——admin:	adminLogin
+2020-09-04 17:09:07——admin:	adminQueryUserAll
+2020-09-04 17:09:07——admin:	adminQueryUserAll
+2020-09-04 17:12:47——admin:	adminLogin
+2020-09-04 17:12:50——admin:	adminQueryUserAll
+2020-09-04 17:12:50——admin:	adminQueryUserAll
+2020-09-04 17:14:02——admin:	adminLogin
+2020-09-04 17:14:48—— [admin] 	adminLogin
+2020-09-04 17:14:50—— [admin] 	adminQueryUserAll
+2020-09-04 17:14:51—— [admin] 	adminQueryRecordByUID
+2020-09-04 17:17:05—— [admin] 	adminLogin
+2020-09-04 17:17:07—— [admin] 	adminQueryUserAll
+2020-09-04 17:17:08—— [admin] 	adminQueryRecordByUID
+2020-09-04 17:17:27—— [admin] 	adminLogin
+2020-09-04 17:17:28—— [admin] 	adminQueryUserAll
+2020-09-04 17:17:29—— [admin] 	adminQueryRecordByUID
+2020-09-04 17:17:41—— [admin] 	adminQueryCarAll
+2020-09-04 17:17:45—— [admin] 	adminQueryRecordByCID
+2020-09-04 17:19:54 —— [admin] 	userLogin
+2020-09-04 17:21:49 —— [tom] 	userLogin
+2020-09-04 17:21:49 —— [tom] 	userQueryCarAll
+2020-09-04 17:21:56 —— [1] 	adminLogin
+2020-09-04 17:21:59 —— [admin] 	adminLogin
+2020-09-04 17:22:04 —— [tom] 	userQueryRecord
+2020-09-04 17:22:09 —— [admin] 	adminQueryRecordAll
+2020-09-04 17:23:37 —— [tom] 	userLogin
+2020-09-04 17:23:37 —— [tom] 	userQueryCarAll
+2020-09-04 17:23:50 —— [admin] 	adminLogin
+2020-09-04 17:23:56 —— [admin] 	adminQueryUserAll
+2020-09-04 17:23:59 —— [tom] 	userQueryRecord
+2020-09-04 17:24:12 —— [admin] 	adminQueryRecordByUID
+2020-09-04 17:24:29 —— [admin] 	adminQueryUserAll
+2020-09-04 17:24:30 —— [admin] 	adminQueryRecordByUID
+2020-09-04 17:25:46 —— [admin] 	adminLogin
+2020-09-04 17:25:48 —— [admin] 	adminQueryUserAll
+2020-09-04 17:25:51 —— [admin] 	adminQueryRecordByUID
+2020-09-04 17:25:58 —— [admin] 	adminQueryRecordAll
+2020-09-04 17:26:15 —— [admin] 	adminQueryRecordAll
+2020-09-04 17:26:18 —— [admin] 	adminQueryUserAll
+2020-09-04 17:26:18 —— [admin] 	adminQueryRecordByUID
+2020-09-04 17:26:45 —— [admin] 	adminLogin
+2020-09-04 17:26:49 —— [admin] 	adminQueryUserAll
+2020-09-04 17:26:49 —— [admin] 	adminQueryRecordByUID
+2020-09-04 17:27:21 —— [xiaoyi] 	userLogin
+2020-09-04 17:27:21 —— [xiaoyi] 	userQueryCarAll
+2020-09-04 17:27:24 —— [xiaoyi] 	userQueryRecord
+2020-09-04 17:27:35 —— [admin] 	adminQueryUserAll
+2020-09-04 17:27:36 —— [admin] 	adminQueryRecordByUID
+2020-09-06 11:32:24 —— [xiaoyi] 	userLogin
+2020-09-06 11:32:24 —— [xiaoyi] 	userQueryCarAll
+2020-09-06 11:32:31 —— [xiaoyi] 	userQueryCarAll
+2020-09-06 11:32:41 —— [xiaoyi] 	userQueryCarOrderByRentAsc
+2020-09-06 11:32:51 —— [xiaoyi] 	userQueryCarOrderByRentDesc
+2020-09-06 11:32:59 —— [xiaoyi] 	userQueryCarOrderByColor
+2020-09-06 11:33:12 —— [xiaoyi] 	userRent
+2020-09-06 11:33:12 —— [xiaoyi] 	userQueryRecord
+2020-09-06 11:34:30 —— [xiaoyi] 	userRent
+2020-09-06 11:35:14 —— [xiaoyi] 	userReturn
+2020-09-06 11:35:18 —— [xiaoyi] 	userQueryRecord
+2020-09-06 11:35:32 —— [xiaoyi] 	userQueryCarAll
+2020-09-06 11:35:44 —— [xiaoyi] 	userQueryRecord
+2020-09-06 11:36:05 —— [xiaoyi] 	userRent
+2020-09-06 11:36:05 —— [xiaoyi] 	userQueryRecord
+2020-09-06 11:36:11 —— [xiaoyi] 	userReturn
+2020-09-06 11:36:14 —— [xiaoyi] 	userQueryRecord
+2020-09-06 11:37:48 —— [admin] 	adminLogin
+2020-09-06 11:38:17 —— [admin] 	adminLogin
+2020-09-06 11:38:20 —— [admin] 	adminQueryCarAll
+2020-09-06 11:38:50 —— [admin] 	adminQueryCarByID
+2020-09-06 11:38:55 —— [admin] 	adminQueryCarByID
+2020-09-06 11:39:01 —— [admin] 	adminQueryCarByID
+2020-09-06 11:41:15 —— [admin] 	adminQueryCarByID
+2020-09-06 11:41:18 —— [admin] 	adminQueryCarByID
+2020-09-06 11:42:26 —— [xiaoyi] 	userLogin
+2020-09-06 11:42:26 —— [xiaoyi] 	userQueryCarAll
+2020-09-06 11:42:39 —— [admin] 	adminLogin
+2020-09-06 11:42:43 —— [admin] 	adminLogin
+2020-09-06 11:42:53 —— [admin] 	adminLogin
+2020-09-06 11:42:57 —— [admin] 	adminQueryCarByID
+2020-09-06 11:43:00 —— [admin] 	adminQueryCarByID
+2020-09-06 11:43:06 —— [admin] 	adminQueryCarByID
+2020-09-06 11:44:57 —— [admin] 	adminLogin
+2020-09-06 11:45:11 —— [admin] 	adminQueryCarAll
+2020-09-06 11:45:17 —— [admin] 	adminQueryCarByID
+2020-09-06 11:45:26 —— [admin] 	adminQueryCarByID
+2020-09-06 11:49:44 —— [admin] 	adminLogin
+2020-09-06 11:49:47 —— [admin] 	adminQueryCarByID
+2020-09-06 11:49:59 —— [admin] 	adminQueryCarByID
+2020-09-06 11:50:04 —— [admin] 	adminQueryCarByID
+2020-09-06 11:53:37 —— [admin] 	adminQueryCarOrderByUseable
+2020-09-06 11:54:00 —— [admin] 	adminQueryCarOrderByStatus
+2020-09-06 11:54:49 —— [null] 	adminQueryBrandAll
+2020-09-06 12:16:09 —— [admin] 	adminQueryCategoryAll
+2020-09-06 12:39:35 —— [admin] 	adminInsertCar
+2020-09-06 12:40:42 —— [admin] 	adminLogin
+2020-09-06 12:40:50 —— [null] 	adminQueryBrandAll
+2020-09-06 12:40:55 —— [admin] 	adminQueryCategoryAll
+2020-09-06 12:41:06 —— [admin] 	adminInsertCar
+2020-09-06 12:41:45 —— [admin] 	adminLogin
+2020-09-06 12:41:48 —— [null] 	adminQueryBrandAll
+2020-09-06 12:41:53 —— [admin] 	adminQueryCategoryAll
+2020-09-06 12:41:59 —— [admin] 	adminInsertCar
+2020-09-06 12:43:49 —— [admin] 	adminLogin
+2020-09-06 12:43:51 —— [null] 	adminQueryBrandAll
+2020-09-06 12:43:54 —— [admin] 	adminQueryCategoryAll
+2020-09-06 12:44:34 —— [admin] 	adminLogin
+2020-09-06 12:44:38 —— [null] 	adminQueryBrandAll
+2020-09-06 12:44:41 —— [admin] 	adminQueryCategoryAll
+2020-09-06 12:45:50 —— [admin] 	adminLogin
+2020-09-06 12:45:53 —— [null] 	adminQueryBrandAll
+2020-09-06 12:46:02 —— [admin] 	adminQueryCategoryAll
+2020-09-06 12:53:53 —— [admin] 	adminLogin
+2020-09-06 12:54:06 —— [null] 	adminQueryBrandAll
+2020-09-06 12:54:23 —— [admin] 	adminQueryCategoryAll
+2020-09-06 12:55:19 —— [admin] 	adminLogin
+2020-09-06 12:55:29 —— [null] 	adminQueryBrandAll
+2020-09-06 12:55:42 —— [admin] 	adminQueryCategoryAll
+2020-09-06 12:56:47 —— [admin] 	adminLogin
+2020-09-06 12:56:50 —— [null] 	adminQueryBrandAll
+2020-09-06 12:56:51 —— [admin] 	adminQueryCategoryAll
+2020-09-06 12:57:46 —— [admin] 	adminLogin
+2020-09-06 12:57:48 —— [null] 	adminQueryBrandAll
+2020-09-06 12:57:52 —— [admin] 	adminQueryCategoryAll
+2020-09-06 12:59:05 —— [1] 	adminLogin
+2020-09-06 12:59:10 —— [admin] 	adminLogin
+2020-09-06 12:59:12 —— [null] 	adminQueryBrandAll
+2020-09-06 12:59:14 —— [admin] 	adminQueryCategoryAll
+2020-09-06 12:59:48 —— [admin] 	adminLogin
+2020-09-06 12:59:50 —— [null] 	adminQueryBrandAll
+2020-09-06 12:59:52 —— [admin] 	adminQueryCategoryAll
+2020-09-06 13:00:18 —— [admin] 	adminLogin
+2020-09-06 13:00:20 —— [null] 	adminQueryBrandAll
+2020-09-06 13:00:21 —— [admin] 	adminQueryCategoryAll
+2020-09-06 13:01:17 —— [admin] 	adminLogin
+2020-09-06 13:01:22 —— [null] 	adminQueryBrandAll
+2020-09-06 13:02:23 —— [admin] 	adminQueryCategoryAll
+2020-09-06 13:04:01 —— [admin] 	adminLogin
+2020-09-06 13:04:05 —— [null] 	adminQueryBrandAll
+2020-09-06 13:04:08 —— [admin] 	adminQueryCategoryAll
+2020-09-06 13:04:15 —— [admin] 	adminInsertCar
+2020-09-06 13:06:03 —— [admin] 	adminLogin
+2020-09-06 13:06:13 —— [null] 	adminQueryBrandAll
+2020-09-06 13:06:27 —— [admin] 	adminQueryCategoryAll
+2020-09-06 13:06:48 —— [admin] 	adminInsertCar
+2020-09-06 13:06:51 —— [admin] 	adminQueryCarAll
+2020-09-06 13:07:13 —— [admin] 	adminQueryCarAll
+2020-09-06 13:07:35 —— [admin] 	adminUpdateModel
+2020-09-06 13:07:57 —— [admin] 	adminQueryCarAll
+2020-09-06 13:07:59 —— [admin] 	adminQueryRecordByCID
+2020-09-06 13:08:25 —— [admin] 	adminQueryCarAll
+2020-09-06 13:08:31 —— [admin] 	adminUpdateStatus
+2020-09-06 13:09:17 —— [admin] 	adminLogin
+2020-09-06 13:11:24 —— [admin] 	adminQueryCarAll
+2020-09-06 13:11:32 —— [admin] 	adminUpdateModel
+2020-09-06 13:11:39 —— [admin] 	adminQueryCarByID
+2020-09-06 13:11:49 —— [admin] 	adminQueryCarOrderByUseable
+2020-09-06 13:11:53 —— [admin] 	adminQueryCarAll
+2020-09-06 13:12:07 —— [admin] 	adminUpdateCar_Num
+2020-09-06 13:12:17 —— [null] 	adminQueryBrandAll
+2020-09-06 13:13:17 —— [admin] 	adminLogin
+2020-09-06 13:13:20 —— [admin] 	adminQueryCarAll
+2020-09-06 13:13:55 —— [amdin] 	adminLogin
+2020-09-06 13:14:00 —— [admin] 	adminLogin
+2020-09-06 13:14:01 —— [admin] 	adminQueryCarAll
+2020-09-06 13:14:04 —— [null] 	adminQueryBrandAll
+2020-09-06 13:15:08 —— [admin] 	adminLogin
+2020-09-06 13:15:22 —— [admin] 	adminLogin
+2020-09-06 13:15:25 —— [admin] 	adminQueryCarAll
+2020-09-06 13:15:28 —— [null] 	adminQueryBrandAll
+2020-09-06 13:16:33 —— [admin] 	adminLogin
+2020-09-06 13:16:35 —— [admin] 	adminQueryCarAll
+2020-09-06 13:16:38 —— [null] 	adminQueryBrandAll
+2020-09-06 13:17:01 —— [admin] 	adminLogin
+2020-09-06 13:17:03 —— [admin] 	adminQueryCarAll
+2020-09-06 13:17:05 —— [null] 	adminQueryBrandAll
+2020-09-06 13:18:57 —— [admin] 	adminLogin
+2020-09-06 13:19:00 —— [null] 	adminQueryBrandAll
+2020-09-06 13:19:01 —— [admin] 	adminQueryCategoryAll
+2020-09-06 13:19:05 —— [admin] 	adminInsertCar
+2020-09-06 13:19:21 —— [admin] 	adminQueryCarAll
+2020-09-06 13:19:29 —— [admin] 	adminUpdateCar_Num
+2020-09-06 13:19:44 —— [admin] 	adminQueryCarAll
+2020-09-06 13:19:52 —— [admin] 	adminUpdateCar_Num
+2020-09-06 13:19:54 —— [null] 	adminQueryBrandAll
+2020-09-06 13:20:03 —— [admin] 	adminUpdateBrand_id
+2020-09-06 13:20:40 —— [admin] 	adminUpdateModel
+2020-09-06 13:20:46 —— [admin] 	adminQueryCategoryAll
+2020-09-06 13:21:03 —— [admin] 	adminUpdateCategory_id
+2020-09-06 13:21:18 —— [admin] 	adminUpdateColor
+2020-09-06 13:21:26 —— [admin] 	adminUpdateComments
+2020-09-06 13:21:35 —— [admin] 	adminUpdatePrice
+2020-09-06 13:21:39 —— [admin] 	adminUpdateRent
+2020-09-06 13:21:43 —— [admin] 	adminUpdateStatus
+2020-09-06 13:21:51 —— [admin] 	adminUpdateUseable
+2020-09-06 13:21:56 —— [admin] 	adminQueryCarByID
+2020-09-06 13:22:18 —— [admin] 	adminQueryRecordAll
+2020-09-06 13:22:33 —— [admin] 	adminQueryUserAll
+2020-09-06 13:25:11 —— [admin] 	adminLogin
+2020-09-06 13:25:14 —— [admin] 	adminQueryUserAll
+2020-09-06 13:26:07 —— [admin] 	adminLogin
+2020-09-06 13:26:10 —— [admin] 	adminQueryUserAll
+2020-09-06 13:26:57 —— [admin] 	adminLogin
+2020-09-06 13:26:59 —— [admin] 	adminQueryUserAll
+2020-09-06 13:40:51 —— [admin] 	adminQueryRecordByUID
+2020-09-06 13:53:29 —— [admin] 	adminLogin
+2020-09-06 13:53:36 —— [admin] 	adminQueryCarAll
+2020-09-06 13:53:52 —— [null] 	adminQueryBrandAll
+2020-09-06 13:53:53 —— [admin] 	adminQueryCategoryAll
+2020-09-06 13:53:56 —— [admin] 	adminInsertCar
+2020-09-06 13:55:58 —— [admin] 	adminLogin
+2020-09-06 13:56:01 —— [null] 	adminQueryBrandAll
+2020-09-06 13:56:07 —— [admin] 	adminQueryCategoryAll
+2020-09-06 13:56:08 —— [admin] 	adminInsertCar
+2020-09-06 13:56:43 —— [admin] 	adminLogin
+2020-09-06 13:56:46 —— [null] 	adminQueryBrandAll
+2020-09-06 13:56:47 —— [admin] 	adminQueryCategoryAll
+2020-09-06 13:56:49 —— [admin] 	adminInsertCar
+2020-09-06 13:57:50 —— [null] 	adminQueryBrandAll
+2020-09-06 13:57:51 —— [admin] 	adminQueryCategoryAll
+2020-09-06 13:57:53 —— [admin] 	adminInsertCar
+2020-09-06 13:58:18 —— [admin] 	adminLogin
+2020-09-06 13:58:24 —— [null] 	adminQueryBrandAll
+2020-09-06 13:58:26 —— [admin] 	adminQueryCategoryAll
+2020-09-06 13:58:29 —— [admin] 	adminInsertCar
+2020-09-06 13:59:19 —— [admin] 	adminLogin
+2020-09-06 13:59:20 —— [null] 	adminQueryBrandAll
+2020-09-06 13:59:22 —— [admin] 	adminQueryCategoryAll
+2020-09-06 13:59:25 —— [admin] 	adminInsertCar
+2020-09-06 14:00:09 —— [admin] 	adminLogin
+2020-09-06 14:00:10 —— [null] 	adminQueryBrandAll
+2020-09-06 14:00:12 —— [admin] 	adminQueryCategoryAll
+2020-09-06 14:00:15 —— [admin] 	adminInsertCar
+2020-09-06 14:00:37 —— [admin] 	adminLogin
+2020-09-06 14:00:44 —— [null] 	adminQueryBrandAll
+2020-09-06 14:01:41 —— [admin] 	adminLogin
+2020-09-06 14:01:42 —— [null] 	adminQueryBrandAll
+2020-09-06 14:02:13 —— [admin] 	adminLogin
+2020-09-06 14:02:14 —— [null] 	adminQueryBrandAll
+2020-09-06 14:02:43 —— [admin] 	adminLogin
+2020-09-06 14:02:44 —— [null] 	adminQueryBrandAll
+2020-09-06 14:03:35 —— [admin] 	adminLogin
+2020-09-06 14:03:38 —— [admin] 	adminQueryBrandAll
+2020-09-06 14:04:39 —— [admin] 	adminLogin
+2020-09-06 14:04:41 —— [admin] 	adminQueryBrandAll
+2020-09-06 14:04:42 —— [admin] 	adminQueryCategoryAll
+2020-09-06 14:04:47 —— [admin] 	adminInsertCar
+2020-09-06 23:46:45 —— [iosia] 	userLogin
+2020-09-06 23:47:35 —— [zxc] 	userRegister
+2020-09-06 23:54:43 —— [zxc] 	userRegister
+2020-09-06 23:56:15 —— [zxc] 	userRegister
+2020-09-06 23:56:26 —— [zxc] 	userLogin
+2020-09-06 23:56:26 —— [zxc] 	userQueryCarAll
+2020-09-07 09:04:32 —— [abc1234] 	userRegister
+2020-09-07 09:04:43 —— [abc123] 	userLogin
+2020-09-07 09:05:02 —— [abc1234] 	userLogin
+2020-09-07 09:05:02 —— [abc1234] 	userQueryCarAll
+2020-09-07 09:20:34 —— [tom] 	userLogin
+2020-09-07 09:20:34 —— [tom] 	userQueryCarAll
+2020-09-07 09:20:42 —— [tom] 	userQueryCarAll
+2020-09-07 09:21:06 —— [tom] 	userQueryCarAll
+2020-09-07 09:21:30 —— [tom] 	userQueryCarAll
+2020-09-07 09:21:47 —— [tom] 	userQueryCarAll
+2020-09-07 09:22:02 —— [tom] 	userQueryCarOrderByRentAsc
+2020-09-07 09:22:09 —— [tom] 	userQueryCarAll
+2020-09-07 09:22:17 —— [tom] 	userQueryCarOrderByRentDesc
+2020-09-07 09:22:24 —— [tom] 	userQueryCarOrderByPriceAsc
+2020-09-07 09:22:31 —— [tom] 	userQueryCarOrderByRentDesc
+2020-09-07 09:23:27 —— [tom] 	userQueryCarOrderByPriceDesc
+2020-09-07 09:24:52 —— [tom] 	userLogin
+2020-09-07 09:24:52 —— [tom] 	userQueryCarAll
+2020-09-07 09:25:04 —— [tom] 	userQueryCarOrderByCategory
+2020-09-07 09:25:44 —— [tom] 	userQueryCarOrderByBrand
+2020-09-07 09:25:52 —— [tom] 	userQueryCarOrderByColor
+2020-09-07 09:26:32 —— [tom] 	userQueryCarOrderByColor
+2020-09-07 09:28:19 —— [tom] 	userRent
+2020-09-07 09:28:19 —— [tom] 	userQueryRecord
+2020-09-07 09:28:40 —— [tom] 	userLogin
+2020-09-07 09:28:40 —— [tom] 	userQueryCarAll
+2020-09-07 09:28:46 —— [tom] 	userQueryRecord
+2020-09-07 09:28:58 —— [tom] 	userReturn
+2020-09-07 09:29:00 —— [tom] 	userQueryRecord
+2020-09-07 09:29:13 —— [admin] 	adminLogin
+2020-09-07 09:29:16 —— [admin] 	adminQueryCarAll
+2020-09-07 09:29:34 —— [admin] 	adminQueryCarAll
+2020-09-07 09:29:50 —— [admin] 	adminQueryCarAll
+2020-09-07 09:29:58 —— [admin] 	adminQueryCarByID
+2020-09-07 09:30:05 —— [admin] 	adminQueryCarByID
+2020-09-07 09:30:51 —— [admin] 	adminQueryCarOrderByUseable
+2020-09-07 09:30:58 —— [admin] 	adminQueryCarOrderByStatus
+2020-09-07 09:31:11 —— [admin] 	adminQueryBrandAll
+2020-09-07 09:31:20 —— [admin] 	adminQueryCategoryAll
+2020-09-07 09:32:10 —— [admin] 	adminLogin
+2020-09-07 09:32:18 —— [admin] 	adminQueryBrandAll
+2020-09-07 09:32:21 —— [admin] 	adminQueryCategoryAll
+2020-09-07 09:32:28 —— [admin] 	adminInsertCar
+2020-09-07 09:34:54 —— [admin] 	adminLogin
+2020-09-07 09:34:57 —— [admin] 	adminQueryBrandAll
+2020-09-07 09:35:00 —— [admin] 	adminQueryCategoryAll
+2020-09-07 09:35:05 —— [admin] 	adminInsertCar
+2020-09-07 09:35:19 —— [admin] 	adminQueryCarAll
+2020-09-07 09:35:42 —— [admin] 	adminUpdateComments
+2020-09-07 09:35:47 —— [admin] 	adminQueryCarByID
+2020-09-07 09:35:59 —— [admin] 	adminQueryRecordAll
+2020-09-07 09:36:42 —— [admin] 	adminLogin
+2020-09-07 09:36:45 —— [admin] 	adminQueryRecordAll
+2020-09-07 09:37:16 —— [admin] 	adminQueryUserAll
+2020-09-07 09:38:05 —— [admin] 	adminQueryRecordByUID
+2020-09-07 09:38:36 —— [admin] 	adminQueryCarAll
+2020-09-07 09:39:03 —— [admin] 	adminQueryRecordByCID
+2020-09-07 09:39:06 —— [admin] 	adminQueryRecordByPay
+2020-09-07 11:59:06 —— [admin] 	adminLogin
+2020-09-07 11:59:10 —— [admin] 	adminQueryRecordAll
+2020-09-07 13:08:32 —— [xiaoyi] 	userLogin
+2020-09-07 13:08:32 —— [xiaoyi] 	userQueryCarAll
+2020-09-07 13:08:35 —— [xiaoyi] 	userQueryRecord
+2020-09-07 13:08:41 —— [xiaoyi] 	userQueryCarAll
+2020-09-07 13:08:50 —— [xiaoyi] 	userRent
+2020-09-07 13:08:50 —— [xiaoyi] 	userQueryRecord
+2020-09-07 13:09:06 —— [tom] 	userLogin
+2020-09-07 13:09:06 —— [tom] 	userQueryCarAll
+2020-09-07 13:09:09 —— [tom] 	userQueryRecord
+2020-09-07 13:09:13 —— [tom] 	userReturn
+2020-09-07 13:09:15 —— [tom] 	userQueryRecord
+2020-09-07 13:09:31 —— [xiaoyi] 	userLogin
+2020-09-07 13:09:31 —— [xiaoyi] 	userQueryCarAll
+2020-09-07 13:09:34 —— [xiaoyi] 	userReturn
+2020-09-07 18:22:08 —— [tom] 	userLogin
+2020-09-07 18:22:08 —— [tom] 	userQueryCarAll
+2020-09-07 18:23:32 —— [tom] 	userQueryRecord
+2020-09-07 18:23:44 —— [tom] 	userRent
+2020-09-07 18:23:44 —— [tom] 	userQueryRecord
+2020-09-07 18:24:01 —— [admin] 	adminLogin
+2020-09-07 18:24:05 —— [admin] 	adminQueryCarAll
+2020-09-07 18:25:16 —— [admin] 	adminUpdateCar_Num
+2020-09-07 18:28:55 —— [admin] 	adminLogin
+2020-09-07 18:28:57 —— [admin] 	adminQueryCarAll
+2020-09-07 18:29:03 —— [admin] 	adminUpdateCar_Num
+2020-09-07 18:29:03 —— [admin] 	adminQueryCarByID
+2020-09-07 18:29:17 —— [admin] 	adminUpdateModel
+2020-09-07 18:29:17 —— [admin] 	adminQueryCarByID
+2020-09-07 18:29:22 —— [admin] 	adminQueryCarAll
+2020-09-07 18:29:32 —— [admin] 	adminUpdateCar_Num
+2020-09-07 18:30:42 —— [admin] 	adminLogin
+2020-09-07 18:30:44 —— [admin] 	adminQueryCarAll
+2020-09-07 18:30:50 —— [admin] 	adminUpdateCar_Num
+2020-09-07 18:30:55 —— [admin] 	adminQueryCarAll
+2020-09-07 19:13:59 —— [admin] 	adminQueryCarOrderByUseable
+2020-09-07 19:14:05 —— [admin] 	adminQueryCarOrderByStatus
+2020-09-07 19:16:48 —— [admin] 	adminQueryRecordAll
+2020-09-07 19:17:01 —— [admin] 	adminQueryCarAll
+2020-09-07 19:17:11 —— [admin] 	adminQueryRecordByCID
+2020-09-07 19:17:15 —— [admin] 	adminQueryUserAll
+2020-09-07 19:17:21 —— [admin] 	adminQueryRecordByUID
+2020-09-07 19:17:24 —— [admin] 	adminQueryRecordByPay
+2020-09-07 19:26:25 —— [asd] 	userLogin
+2020-09-07 19:27:13 —— [asd] 	userLogin
+2020-09-08 10:02:13 —— [admin] 	adminLogin
+2020-09-08 11:53:15 —— [admin] 	adminLogin
+2020-09-08 11:53:21 —— [admin] 	adminInsertBrand
+2020-09-08 11:53:21 —— [admin] 	adminQueryBrandAll
+2020-09-08 11:53:27 —— [admin] 	adminInsertBrand
+2020-09-08 11:53:51 —— [admin] 	adminQueryBrandAll
+2020-09-08 11:54:00 —— [admin] 	adminQueryCategoryAll
+2020-09-08 11:54:15 —— [admin] 	adminInsertCar
+2020-09-08 11:54:18 —— [admin] 	adminQueryCarAll
+2020-09-08 11:54:37 —— [admin] 	adminQueryCarAll
+2020-09-08 11:54:43 —— [admin] 	adminUpdateModel
+2020-09-08 11:54:43 —— [admin] 	adminQueryCarByID
+2020-09-08 12:04:38 —— [admin] 	adminLogin
+2020-09-08 12:05:29 —— [admin] 	adminInsertCategory
+2020-09-08 12:05:29 —— [admin] 	adminQueryCategoryAll
+2020-09-08 13:39:53 —— [uio] 	userLogin
+2020-09-08 13:40:43 —— [ABC] 	userRegister
+2020-09-08 13:40:54 —— [ABC] 	userLogin
+2020-09-08 13:40:54 —— [ABC] 	userQueryCarAll
+2020-09-08 13:41:22 —— [ABC] 	userQueryCarOrderByRentDesc
+2020-09-08 13:41:37 —— [ABC] 	userQueryCarAll
+2020-09-08 13:41:55 —— [ABC] 	userRent
+2020-09-08 13:42:16 —— [ABC] 	userQueryCarAll
+2020-09-08 13:42:23 —— [ABC] 	userRent
+2020-09-08 13:42:23 —— [ABC] 	userQueryRecord
+2020-09-08 13:42:51 —— [ABC] 	userReturn
+2020-09-08 13:42:54 —— [ABC] 	userQueryRecord
+2020-09-08 13:43:02 —— [ABC] 	userQueryRecord
+2020-09-08 13:43:19 —— [admin] 	adminLogin
+2020-09-08 13:43:32 —— [admin] 	adminQueryCarAll
+2020-09-08 13:43:43 —— [admin] 	adminQueryCarByID
+2020-09-08 13:43:48 —— [admin] 	adminQueryCarByID
+2020-09-08 13:44:08 —— [admin] 	adminQueryBrandAll
+2020-09-08 13:44:23 —— [admin] 	adminQueryCategoryAll
+2020-09-08 13:44:38 —— [admin] 	adminInsertCar
+2020-09-08 13:44:55 —— [admin] 	adminInsertCategory
+2020-09-08 13:44:55 —— [admin] 	adminQueryCategoryAll
+2020-09-08 13:45:03 —— [admin] 	adminQueryBrandAll
+2020-09-08 13:45:06 —— [admin] 	adminQueryCategoryAll
+2020-09-08 13:45:14 —— [admin] 	adminInsertCar
+2020-09-08 13:45:17 —— [admin] 	adminQueryCarAll
+2020-09-08 13:45:27 —— [admin] 	adminQueryCarAll
+2020-09-08 13:45:51 —— [admin] 	adminUpdateCar_Num
+2020-09-08 13:45:51 —— [admin] 	adminQueryCarByID
+2020-09-08 13:46:05 —— [admin] 	adminUpdateModel
+2020-09-08 13:46:05 —— [admin] 	adminQueryCarByID
+2020-09-08 13:46:23 —— [admin] 	adminQueryRecordAll
+2020-09-08 13:46:41 —— [admin] 	adminQueryUserAll
+2020-09-08 13:46:51 —— [admin] 	adminQueryRecordByUID
+2020-09-08 13:47:00 —— [admin] 	adminQueryUserAll
+2020-09-08 13:47:02 —— [admin] 	adminQueryRecordByUID
+2020-09-08 13:47:06 —— [admin] 	adminQueryCarAll
+2020-09-08 13:47:08 —— [admin] 	adminQueryRecordByCID
+2020-09-08 13:47:39 —— [admin] 	adminLogin
+2020-09-08 13:47:55 —— [admin] 	adminInsertBrand
+2020-09-08 13:47:55 —— [admin] 	adminQueryBrandAll
+2020-09-08 13:48:09 —— [admin] 	adminInsertBrand
+2020-09-08 13:58:18 —— [admin] 	adminQueryCarAll
